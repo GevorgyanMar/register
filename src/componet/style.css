@@ -1,0 +1,23 @@
+.form-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    position: fixed;
+    left: 38%;
+    top:40%
+}
+.form-button{
+    margin: 10px auto;
+}
+
+.form-block-sinUp form{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.input-block{
+    margin: 10px 0;
+}
